@@ -14,6 +14,15 @@ The application provides two main sections:
 It also includes analytics, search/filtering, local data persistence, and data backup/restore.
 
 The project currently works completely offline and does not require login, Firebase, a backend server, or hosting.
+##
+NO DATA IS SAVED ON THE HOST SIDE. ALL THE DATA IS STORED ON THE USER'S DEVICE, SO NO NEED OF ANY WORRY.
+##
+
+## 📥 Download APK
+
+### Latest Version
+
+[⬇️ Download IPO Manager APK](https://github.com/avishkardalavi/IPO-Manager/releases/download/v1.5/IPO_Manager.apk)
 
 ## ✨ Features
 
