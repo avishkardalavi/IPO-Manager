@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.avishkar.ipomanager.app-mergeDebugResources-4:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\avish\\OneDrive\\Desktop\\IPOManager_Phase2_Room\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "440"
+                    }
+                }
+            ]
+        }
+    ]
+}

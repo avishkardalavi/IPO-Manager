@@ -1,0 +1,4 @@
+com.avishkar.ipomanager.test.app-androidTest-0 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\generated\res\resValues\androidTest\debug
+com.avishkar.ipomanager.test.app-mergeDebugAndroidTestResources-1 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.avishkar.ipomanager.test.app-mergeDebugAndroidTestResources-2 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.avishkar.ipomanager.test.app-debugAndroidTest-3 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

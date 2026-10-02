@@ -1,0 +1,4 @@
+#Fri Oct 02 14:19:39 IST 2026
+base.0=C\:\\Users\\avish\\OneDrive\\Desktop\\IPOManager_Phase2_Room\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

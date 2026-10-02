@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.avishkar.ipomanager"
+4    android:versionCode="2"
+5    android:versionName="0.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:4:5-27:19
+12        android:allowBackup="true"
+12-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:8:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="IPO Manager"
+16-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:6:9-36
+17        android:supportsRtl="true"
+17-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:9:9-35
+18        android:theme="@style/AppTheme" >
+18-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:5:9-40
+19        <activity
+19-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:11:9-21:20
+20            android:name="com.avishkar.ipomanager.MainActivity"
+20-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:12:13-41
+21            android:exported="true"
+21-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:14:13-36
+22            android:screenOrientation="portrait" >
+22-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:13:13-49
+23            <intent-filter>
+23-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:16:13-19:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:17:17-68
+24-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:17:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:18:17-76
+26-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:18:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:23:9-25:40
+30            android:name="com.avishkar.ipomanager.AnalyticsActivity"
+30-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:24:13-46
+31            android:exported="false" />
+31-->C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:25:13-37
+32
+33        <service
+33-->[androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:24:9-28:63
+34            android:name="androidx.room.MultiInstanceInvalidationService"
+34-->[androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:25:13-74
+35            android:directBootAware="true"
+35-->[androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:26:13-43
+36            android:exported="false" />
+36-->[androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:27:13-37
+37    </application>
+38
+39</manifest>

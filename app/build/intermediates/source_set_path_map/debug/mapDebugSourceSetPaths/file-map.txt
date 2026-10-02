@@ -1,0 +1,9 @@
+com.avishkar.ipomanager.app-annotation-experimental-1.5.0-0 C:\Users\avish\.gradle\caches\8.10.2\transforms\dd46f58d43b896dc9bb37d483f1fc5b1\transformed\annotation-experimental-1.5.0\res
+com.avishkar.ipomanager.app-core-runtime-2.2.0-1 C:\Users\avish\.gradle\caches\8.10.2\transforms\dfb170311663eb7f8ab106b6170e58c2\transformed\core-runtime-2.2.0\res
+com.avishkar.ipomanager.app-pngs-2 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\generated\res\pngs\debug
+com.avishkar.ipomanager.app-resValues-3 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\generated\res\resValues\debug
+com.avishkar.ipomanager.app-packageDebugResources-4 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.avishkar.ipomanager.app-packageDebugResources-5 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.avishkar.ipomanager.app-debug-6 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.avishkar.ipomanager.app-debug-7 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\debug\res
+com.avishkar.ipomanager.app-main-8 C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\res

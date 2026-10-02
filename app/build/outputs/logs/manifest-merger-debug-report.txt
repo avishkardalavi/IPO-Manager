@@ -1,0 +1,88 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\avish\.gradle\caches\8.10.2\transforms\dfb170311663eb7f8ab106b6170e58c2\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] C:\Users\avish\.gradle\caches\8.10.2\transforms\609be9e5f4f46834214a90e716df7aae\transformed\sqlite-framework\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] C:\Users\avish\.gradle\caches\8.10.2\transforms\b7acec585d96e971116023c889269be3\transformed\sqlite\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\avish\.gradle\caches\8.10.2\transforms\dd46f58d43b896dc9bb37d483f1fc5b1\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:4:5-27:19
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:4:5-27:19
+MERGED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:23:5-29:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:6:9-36
+	android:icon
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:5:9-40
+activity#com.avishkar.ipomanager.MainActivity
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:11:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:13:13-49
+	android:exported
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:12:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:18:17-76
+	android:name
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.avishkar.ipomanager.AnalyticsActivity
+ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml:24:13-46
+uses-sdk
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+MERGED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\avish\.gradle\caches\8.10.2\transforms\dfb170311663eb7f8ab106b6170e58c2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\avish\.gradle\caches\8.10.2\transforms\dfb170311663eb7f8ab106b6170e58c2\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] C:\Users\avish\.gradle\caches\8.10.2\transforms\609be9e5f4f46834214a90e716df7aae\transformed\sqlite-framework\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.2] C:\Users\avish\.gradle\caches\8.10.2\transforms\609be9e5f4f46834214a90e716df7aae\transformed\sqlite-framework\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] C:\Users\avish\.gradle\caches\8.10.2\transforms\b7acec585d96e971116023c889269be3\transformed\sqlite\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.2] C:\Users\avish\.gradle\caches\8.10.2\transforms\b7acec585d96e971116023c889269be3\transformed\sqlite\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\avish\.gradle\caches\8.10.2\transforms\dd46f58d43b896dc9bb37d483f1fc5b1\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\avish\.gradle\caches\8.10.2\transforms\dd46f58d43b896dc9bb37d483f1fc5b1\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\avish\OneDrive\Desktop\IPOManager_Phase2_Room\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.8.5] C:\Users\avish\.gradle\caches\8.10.2\transforms\181516fe1c7d0b3f397d32f8c6729cd7\transformed\room-runtime\AndroidManifest.xml:25:13-74
